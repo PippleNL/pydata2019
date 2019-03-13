@@ -1,0 +1,1 @@
+# pippis_image_recognition_challenge
