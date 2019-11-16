@@ -1,1 +1,1 @@
-# pippis_image_recognition_challenge
+# PyData Workshop Deep Learning - Pipple & 510
